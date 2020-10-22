@@ -14,6 +14,9 @@ public class CalcTeste {
 		 calc.subtracao(7, 3);
 		 calc.multiplicacao(4, 3);
 
+		 double x = 400;
+		 double y = 600;
+		 System.out.println("\nOperação básica: " + (x * y));
 	}
 
 }
